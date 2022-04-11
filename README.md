@@ -3,6 +3,17 @@ Bot that converses with the user
 
 Our agent receives an input from the user via our Discord messaging channel. The agent then uses a keyword system to generate an appropriate output message. The output message is then sent to the user via the Discord channel.
 
+# Individual Assignment
+New API: Google Translate API
+The agent has received an upgrade and can now translate sentences into compatible languages. The languages that the agent can handle are French, Spanish, and German. The agent translates sentences by being prompted with the keywords 'Translate' as well as the desired language 'French', 'Spanish', or 'German' and replying with the translated sentence. If a user attempts to translate a language that is not compatible the agent will reply with a message telling the user that it is unable to process the request.
+
+<img width="379" src="https://user-images.githubusercontent.com/99511208/162842349-4b332819-3aa9-4934-bccc-95e593616f3f.png">
+
+<img width="379" src="https://user-images.githubusercontent.com/99511208/162842407-3f34f0b4-d501-4a6a-9ce4-6aeeed4d3f52.png">
+
+<img width="379" src="https://user-images.githubusercontent.com/99511208/162842446-3f5e0f18-6ead-40b0-8d1b-aa623abf1780.png">
+
+
 # Assignment 3 - Features
 1. Switch statement keyword system: Our agent uses a keyword system to generate the appropriate output to send to the user. The keyword system is fitted with multiple topics, greetings, small-talk phrases, and reactions that can be used in the agent's output. We have even implemented some randomization when it comes to the agent's response, so that the conversation can always be unique.
 
