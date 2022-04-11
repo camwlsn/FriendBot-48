@@ -13,6 +13,8 @@ New API: Google Translate API
 
 <img width="379" src="https://user-images.githubusercontent.com/99511208/162842446-3f5e0f18-6ead-40b0-8d1b-aa623abf1780.png">
 
+- Sentences are translated using a script I published on Google scripts: https://script.google.com/macros/s/AKfycbzy6sM7-w879wDe0Yhwdt-oMtgGHq-UaF3CnCzpO_ZZxetze9MDyuiPfjbPT1wL3dumuw/exec
+
 
 # Assignment 3 - Features
 1. Switch statement keyword system: Our agent uses a keyword system to generate the appropriate output to send to the user. The keyword system is fitted with multiple topics, greetings, small-talk phrases, and reactions that can be used in the agent's output. We have even implemented some randomization when it comes to the agent's response, so that the conversation can always be unique.
