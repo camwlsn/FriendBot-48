@@ -5,7 +5,7 @@ Our agent receives an input from the user via our Discord messaging channel. The
 
 # Individual Assignment
 New API: Google Translate API
-The agent has received an upgrade and can now translate sentences into compatible languages. The languages that the agent can handle are French, Spanish, and German. The agent translates sentences by being prompted with the keywords 'Translate' as well as the desired language 'French', 'Spanish', or 'German' and replying with the translated sentence. If a user attempts to translate a language that is not compatible the agent will reply with a message telling the user that it is unable to process the request.
+- The agent has received an upgrade and can now translate sentences into compatible languages. The languages that the agent can handle are French, Spanish, and German. The agent translates sentences by being prompted with the keywords 'Translate' as well as the desired language 'French', 'Spanish', or 'German' and replying with the translated sentence. If a user attempts to translate a language that is not compatible the agent will reply with a message telling the user that it is unable to process the request.
 
 <img width="379" src="https://user-images.githubusercontent.com/99511208/162842349-4b332819-3aa9-4934-bccc-95e593616f3f.png">
 
